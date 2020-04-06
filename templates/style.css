@@ -1,0 +1,26 @@
+.header
+ {
+    padding: auto;
+    margin: auto;
+    font-size: large;
+    background-color: red;
+    color: white;
+    height: 10em;
+}
+
+
+.card-header {
+    
+    font-size: medium;
+    background-color: royalblue;
+    color: white;
+}
+
+.card-body {
+    max-width: 10px;
+    background-color: whitesmoke;
+}
+
+.card-title {
+    background-color: white;
+}
